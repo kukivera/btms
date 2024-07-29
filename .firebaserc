@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bftms-ad377"
+  },
+  "targets": {
+    "bftms-ad377": {
+      "hosting": {
+        "bftms-ad377.web.app": [
+          "bftms-ad377.firebaseapp.com"
+        ]
+      }
+    }
+  }
+}

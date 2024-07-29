@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628673907353",
+    "project_id": "bftms-ad377",
+    "storage_bucket": "bftms-ad377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628673907353:android:62386611ab49078b6dc608",
+        "android_client_info": {
+          "package_name": "techbridgesolusions.net.bruh_finance_tms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu7fBrmc_qfZFUFmYZ-ypst65sHqCuIsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
